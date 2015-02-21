@@ -1,1 +1,1 @@
-About the project.
+This is Framework solution for manage common core functionality.
