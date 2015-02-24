@@ -1,8 +1,0 @@
-language: c
- 
-install:
-  - sudo apt-get install mono-devel mono-gmcs nunit-console
- 
-script:
-  - xbuild ./Source/SD.Framework.sln
-  - nunit-console ./Source/Test/SD.Framework.Data.Test/bin/Debug/SD.Framework.Data.Test.dll -exclude Integration,NotWorkingOnMono
