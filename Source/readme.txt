@@ -1,1 +1,1 @@
-This is Framework solution for manage common core functionality.
+This is Framework solution for manage common core functionality. Edited to test CI.
